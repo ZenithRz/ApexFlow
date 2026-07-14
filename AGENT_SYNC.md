@@ -9,7 +9,7 @@
 
 | Assignee | Task | Files | Status |
 |----------|------|-------|--------|
-| _add your name here_ | _describe task_ | _list files_ | in-progress / done |
+| babfialbi91-design (Agent 2) | Review and enhance owned components | pricing.tsx, testimonials.tsx, faq.tsx, final-cta.tsx, footer.tsx | in-progress |
 
 ### How to claim a task:
 1. Add your name + task to the table above
@@ -67,6 +67,7 @@ To avoid conflicts, default ownership per session:
 | 2026-07-14 | ZenithRz | Initial project setup, all sections built |
 | 2026-07-14 | ZenithRz | Added micro-interactions to all components |
 | 2026-07-14 | ZenithRz | Pushed to GitHub, added collaborator |
+| 2026-07-14 | babfialbi91-design | Agent 2 setup complete, claimed owned components |
 
 ---
 
